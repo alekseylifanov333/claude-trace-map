@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.html
+handoff.json
+.DS_Store
